@@ -33,7 +33,7 @@ RegisterNumber:  212223040048
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/6a6a814d-76b3-49f0-b094-3407132f3c52)
+![image](https://github.com/user-attachments/assets/b4a981c6-ac4f-4d26-92eb-95353b4e99d9)
 
 
 ## Result:
